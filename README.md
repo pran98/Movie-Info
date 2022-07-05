@@ -1,4 +1,4 @@
-# Entertainment Hub
+# Movie Info
 <table>
 <tr>
 <td>
